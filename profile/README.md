@@ -35,3 +35,11 @@ Achim Stein, Principal Investigator.
 
 Released software and data carry their own licence and citation metadata;
 see the respective repository. Releases are archived with a DOI via Zenodo.
+
+### Infrastructure and acknowledgements
+
+Project communication uses [Zulip](https://zulip.com/), whose sponsorship
+programme provides Zulip Cloud Standard hosting free of charge for academic
+research projects.
+
+<a href="https://zulip.com/"><img src="zulip-icon-circle.svg" alt="Zulip" height="40"></a>
