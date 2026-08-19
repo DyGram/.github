@@ -29,7 +29,7 @@ here are internal to the project team.
 
 ### Contact
 
-Achim Stein, Principal Investigator.
+Achim Stein, Principal Investigator, [ILR, University of Stuttgart](https://www.ling.uni-stuttgart.de/institut/ilr/)
 
 ### Citation and reuse
 
